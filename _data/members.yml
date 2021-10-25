@@ -11,7 +11,7 @@
   Green Center for Reproductive Biology Sciences at the UT Southwestern Medical Center in late 2021. 
   
   
-  In his sparetime, Haiqi enjoys watching Anime, reading Manga and Sci-Fi novels, and playing soccer both on a field and on a Xbox.
+  In his spare time, Haiqi enjoys watching Anime, reading Manga and Sci-Fi novels, and playing basketball and soccer both on a court/field and on a PS/Xbox.
   
   
   _Photo by Sophia Liu_
@@ -73,10 +73,10 @@
 
  
 - name: We are hiring!
-  image: /img/hello_world.jpeg
-  altimage: /img/hello_world.jpeg
-  position: Research Technician / Graduate Student / Postdoctoral Fellow
-  email: your.e-mail (at) ucsf.edu
+  image: /img/join us.jpeg
+  altimage: /img/join us.jpeg
+  position: Research Associate / Graduate Student / Postdoctoral Fellow
+#  email: your.e-mail (at) ucsf.edu
 #  scholar:
   description: "Interested postdoctoral fellows should e-mail Haiqi at Haiqi.Chen@utsouthwestern.edu with a summary of their research thus far, a brief
     description of the types of projects they would like to work on, and 2-3 references. We are also always looking for motivated undergraduates and graduate students!"
