@@ -1,11 +1,11 @@
 ---
 layout: gridlay
-title: research
-subtitle: Ramani Lab Research
+title: News
+subtitle: Lab News
 ---
 
 # **research interests**
-{% for project in site.data.research_aims %}
+{% for project in site.data.news %}
 <hr>
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div id = "{{project.title}}" class="row" style="padding-top: 60px; margin-top: -60px;">
