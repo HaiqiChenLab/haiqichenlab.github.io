@@ -1,13 +1,16 @@
-- title: "*Spatially-resolved functional genomics to study gene functions in the native tissue context*"
+- title: "*Novel gene editing tools for directed evolution of endogenous gene loci and for temporal recording*"
   image: /img/aim1.png
   altimage: /img/aim1.png
-  description: 'We invent high-throughput molecular tools to study how biology''s central dogma is regulated. We are particularly interested in devising ways to molecularly tag nucleic acids and proteins with unique genomic or proteomic identifiers. We then use these "barcodes"
-    to quantify biological phenomena (*e.g.* chromatin accessibility, chromosomal structure, RNA abundance, protein synthesis rates) at the level of single cells and single molecules, using high-throughput sequencing and cutting-edge mass spectrometric techniques.
-    Our ultimate goal is to combine these techniques with synthetic, metabolic, and genetic cellular perturbations, to understand how
-    protein-nucleic acid interactions, transcriptional dynamics, and translational dynamics vary in the face of diverse cellular inputs, and how these phenomena ultimately encode cellular phenotype.
-    '
+  description: 'We harness the DNA editing capabilities of various enzymes to diversify the mammalian genome in a targeted manner with high specificity and efficiency.
+  We have rencetly recently developed TRACE (T7 polymerase-driven continuous editing), a system which enables continuous, targeted mutagenesis in eukaryotic cells with 
+  a wide editing window (at least 2000 bp) and no deletions in nucleotide sequences. TRACE combines the DNA processivity of bacteriophage DNA-dependent T7 RNA polymerases 
+  with the somatic hypermutation capability of cytidine deaminases and can thus continuously diversify DNA nucleotides downstream of a T7 promoter.
+  
+  We are now employing TRACE to 1) diversify endogenous gene loci in a high-throughput fashion; and 2) record temporal information such as cell lineage information *in vivo*. 
+  We are also interested in developing new tools to record temporal information at a much higher resolution than previously demonstrated.
+  '
 
-- title: "*High-resolution spatial transcriptomics and epigenomics for studying mammalian spermatogenesis*"
+- title: "*High-resolution spatial transcriptomics and spatial epigenomics for studying mammalian spermatogenesis*"
   image: /img/aim2.png
   altimage: /img/aim2.png
   description: 'Cellular and organismal functions in the contexts of development and disease
@@ -25,7 +28,7 @@
     transcriptional programs, and better understand how these programs go awry in diseases like cancer.
     '
 
-- title: "*Novel gene editing tools to diversify endogenous gene loci*"
+- title: "*Spatially-resolved functional genomics to study gene functions in the native tissue context*"
   image: /img/aim3.png
   altimage: /img/aim3.png
   description: 'A fascinating consequence of deranging the extended MYC network is the ectopic expression of tRNA genes, which are not only critical to protein synthesis, but
