@@ -1,4 +1,4 @@
-- title: "*novel molecular technologies to study gene regulation*"
+- title: "*Spatially-resolved functional genomics to study gene functions in the native tissue context*"
   image: /img/aim1.png
   altimage: /img/aim1.png
   description: 'We invent high-throughput molecular tools to study how biology''s central dogma is regulated. We are particularly interested in devising ways to molecularly tag nucleic acids and proteins with unique genomic or proteomic identifiers. We then use these "barcodes"
@@ -7,7 +7,7 @@
     protein-nucleic acid interactions, transcriptional dynamics, and translational dynamics vary in the face of diverse cellular inputs, and how these phenomena ultimately encode cellular phenotype.
     '
 
-- title: "*dissecting the circuitry connecting cellular metabolism and chromatin through single-cell sequencing*"
+- title: "*High-resolution spatial transcriptomics and epigenomics for studying mammalian spermatogenesis*"
   image: /img/aim2.png
   altimage: /img/aim2.png
   description: 'Cellular and organismal functions in the contexts of development and disease
@@ -25,8 +25,7 @@
     transcriptional programs, and better understand how these programs go awry in diseases like cancer.
     '
 
-- title: "*regulation of metazoan RNA polymerase III transcription*"
-#- title: Mechanisms underlying transcriptional regulation of metazoan RNA Polymerase III
+- title: "*Novel gene editing tools to diversify endogenous gene loci*"
   image: /img/aim3.png
   altimage: /img/aim3.png
   description: 'A fascinating consequence of deranging the extended MYC network is the ectopic expression of tRNA genes, which are not only critical to protein synthesis, but
