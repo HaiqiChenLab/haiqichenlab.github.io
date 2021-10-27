@@ -1,11 +1,11 @@
 ---
-title: "Ramani Lab - Publications"
+title: "ReGL - Publications"
 layout: gridlay
-excerpt: "Ramani Lab -- Publications."
+excerpt: "ReGL -- Publications."
 ---
 
 
-# **publications**
+# **Publications**
 <hr>
 Here is a sampling of some of the papers that guide our lab's research. You can also find many of these on [google scholar](https://scholar.google.com/citations?user=BjwGIbcAAAAJ&hl=en) and [pubmed](https://www.ncbi.nlm.nih.gov/pubmed?term=\(Vijay%20Ramani%5BAuthor%20-%20Full%5D\)%20AND%20Jay%20Shendure%5BAuthor%20-%20Full%5D#rss_menu). #: senior author; \*: equal contribution. In cases where a first author is from the lab, all first authors are highlighted in <b>bold</b>.
 
