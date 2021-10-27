@@ -90,4 +90,4 @@ subtitle: ReGL Members
   <td>Research Specialist / 2020 - 2021</td>
   <td>PhD Program @ UC Santa Cruz (BME)</td>
 </tr>
-</table>
+</table> -->
