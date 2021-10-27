@@ -797,7 +797,7 @@ td.gutter {
 
 /*extra navbar stuff from UCSF git*/
 #ucsf-banner-nav {
-  height: 40px;
+  height: 30px;
   overflow: hidden;
   font-family: "Helvetica Neue", "arial", sans-serif;
   background: #CAC5BD; }
@@ -811,7 +811,7 @@ td.gutter {
   #ucsf-banner-nav .top-header-container {
     margin-right: auto;
     margin-left: auto;
-    padding-left: 15px;
+    padding-left: 0; /* 15px */
     padding-right: 15px;
     max-width: 1230px; }
     /* line 9, /Users/richardbaker/git_repos/shoestring/src/assets/sass/ucsf/components/banner */
