@@ -1,19 +1,16 @@
-- title: "*Spatially-resolved functional genomics to study gene functions in the native tissue context*"
-  image: /img/aim1.png
-  altimage: /img/aim1.png
-  description: 'We invent high-throughput molecular tools to study how biology''s central dogma is regulated. We are particularly interested in devising ways to molecularly tag nucleic acids and proteins with unique genomic or proteomic identifiers. We then use these "barcodes"
-    to quantify biological phenomena (*e.g.* chromatin accessibility, chromosomal structure, RNA abundance, protein synthesis rates) at the level of single cells and single molecules, using high-throughput sequencing and cutting-edge mass spectrometric techniques.
-    Our ultimate goal is to combine these techniques with synthetic, metabolic, and genetic cellular perturbations, to understand how
-    protein-nucleic acid interactions, transcriptional dynamics, and translational dynamics vary in the face of diverse cellular inputs, and how these phenomena ultimately encode cellular phenotype.
+- title: "*The ReGL officially opens in Dec 2021. Stay tuned!*"
+  image: /img/Helloworld.png
+  altimage: /img/Helloworld.png
+  description: 'We are hiring at all levels!.
     '
 
-- title: "*High-resolution spatial transcriptomics and epigenomics for studying mammalian spermatogenesis*"
-  image: /img/aim2.png
-  altimage: /img/aim2.png
-  description: 'Cellular and organismal functions in the contexts of development and disease
-    rely on the proper integration of extracellular signals into gene regulatory responses. We apply metabolic perturbation strategies to established cell culture
-    systems, and then model these perturbations using a diverse array of genomic techniques.
-    These methods include high-throughput single-cell sequencing techniques (*e.g.* sci-RNA-seq, sci-ATAC-seq),
-    which allow us to characterize cellular state changes, and high-throughput protein-DNA interaction mapping techniques (*e.g.* ChIP-seq, CUT&RUN),
-    which provide us with base-pair resolution maps of nucleosome-DNA and transcription factor-DNA interactions.
+#- title: "*High-resolution spatial transcriptomics and epigenomics for studying mammalian spermatogenesis*"
+#  image: /img/aim2.png
+#  altimage: /img/aim2.png
+#  description: 'Cellular and organismal functions in the contexts of development and disease
+#    rely on the proper integration of extracellular signals into gene regulatory responses. We apply metabolic perturbation strategies to established cell culture
+#    systems, and then model these perturbations using a diverse array of genomic techniques.
+#    These methods include high-throughput single-cell sequencing techniques (*e.g.* sci-RNA-seq, sci-ATAC-seq),
+#    which allow us to characterize cellular state changes, and high-throughput protein-DNA interaction mapping techniques (*e.g.* ChIP-seq, CUT&RUN),
+#    which provide us with base-pair resolution maps of nucleosome-DNA and transcription factor-DNA interactions.
     '
