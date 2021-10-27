@@ -6,6 +6,7 @@
   a wide editing window (at least 2000 bp) and no deletions in nucleotide sequences. TRACE combines the DNA processivity of bacteriophage DNA-dependent T7 RNA polymerases 
   with the somatic hypermutation capability of cytidine deaminases and can thus continuously diversify DNA nucleotides downstream of a T7 promoter.
   
+  
   We are now employing TRACE to 1) diversify endogenous gene loci in a high-throughput fashion; and 2) record temporal information such as cell lineage information *in vivo*. 
   We are also interested in developing new tools to record temporal information at a much higher resolution than previously demonstrated.
   '
