@@ -14,20 +14,18 @@
 - title: "*High-resolution spatial transcriptomics and spatial epigenomics for studying mammalian spermatogenesis*"
   image: /img/aim2.png
   altimage: /img/aim2.png
-  description: 'Cellular and organismal functions in the contexts of development and disease
-    rely on the proper integration of extracellular signals into gene regulatory responses. We apply metabolic perturbation strategies to established cell culture
-    systems, and then model these perturbations using a diverse array of genomic techniques.
-    These methods include high-throughput single-cell sequencing techniques (*e.g.* sci-RNA-seq, sci-ATAC-seq),
-    which allow us to characterize cellular state changes, and high-throughput protein-DNA interaction mapping techniques (*e.g.* ChIP-seq, CUT&RUN),
-    which provide us with base-pair resolution maps of nucleosome-DNA and transcription factor-DNA interactions.
+  description: 'Spermatogenesis - the biological process of sperm production - takes place in the spatially confined environment of seminiferous tubules and is constantly 
+  influenced by the somatic cell types in the peritubular and interstitial space. However, there has been a lack of tools to comprehensively profile spermatogenesis within 
+  the native context of seminiferous tubules. Using a high throughput spatial profiling method called [Slide-seq](https://www.science.org/doi/10.1126/science.aaw1219), we have recently generated the first unbiased spatial transcriptome 
+  atlas for the mouse and human spermatogenesis at near single-cell resolution. By applying a custom computational pipeline, we were able to assign information of cell type, 
+  seminiferous tubule, and stage to each Slide-seq bead with high accuracy, providing a framework to systematically evaluate the spatial dynamics in gene expressions and in cellular 
+  structures both within and surrounding the seminiferous tubules with high resolution. 
 
 
-    We are particularly interested in the role of the extended MYC network of transcription factors
-    as transcriptional "integrators" of cellular metabolism. To this end, we collaborate with [Bob Eisenman''s lab](https://research.fhcrc.org/eisenman/en.html) at
-    the Fred Hutchinson Cancer Research Center, to apply our tools to diverse *in vitro* and *in vivo* models
-    of MYC network dysregulation. Ultimately, we aim to define the processes by which cells normally relate metabolic state to specific
-    transcriptional programs, and better understand how these programs go awry in diseases like cancer.
-    '
+  We are now pushing the limit of the current Slide-seq technology to build the next-generation spatail transcriptomics atlas for mammalian spermatogenesis. We will then use this atlas
+  to solve some of the biggest misteries in male reproductive biology. In addtion, we are also interested in developing technologies which capture the epigenome (e.g., chromatin accessibility and histone modifications) in a
+  spatially-resolved manner. 
+  '
 
 - title: "*Spatially-resolved functional genomics to study gene functions in the native tissue context*"
   image: /img/aim3.png
