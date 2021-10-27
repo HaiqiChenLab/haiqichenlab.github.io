@@ -847,7 +847,7 @@ td.gutter {
         /* line 37, /Users/richardbaker/git_repos/shoestring/src/assets/sass/ucsf/components/banner */
         #ucsf-banner-nav .top-header-container ul.menu li a {
           text-decoration: none;
-          color: #fff; }
+          color: #000000; }
         #ucsf-banner-nav .top-header-container ul.menu li a:hover {
           text-decoration: underline;}
 
