@@ -30,13 +30,11 @@
 - title: "*Spatially-resolved functional genomics to study gene functions in the native tissue context*"
   image: /img/aim3.png
   altimage: /img/aim3.png
-  description: 'A fascinating consequence of deranging the extended MYC network is the ectopic expression of tRNA genes, which are not only critical to protein synthesis, but
-    may also play unexpected "moonlighting" roles in other biological processes. We use synthetic genetic perturbation (*i.e.* CRISPR/CRISPRi/CRISPRa) in
-    cell lines to characterize the molecular consequences of perturbing tRNAs and tRNA-associated genes.
+  description: 'The mammalian testis expresses the largest number of genes in the body. Many of these genes are expressed in the germ cells. However, the function of the majority of these genes remain largely unknown.
+  A lack of *in vitro* culture system that faithfully recpaitulates spermatogenesis renders it impossible to perform large scale *in vitro* functional screens to dissect testicular gene functions. Therefore, *in vivo* genetic 
+  models remain one of the few feasible approaches. 
 
 
-    In parallel, we employ high-resolution protein-DNA interaction mapping
-    approaches to study redistribution of RNA polymerase III, its basal transcriptional machinery, and transcription factors in response to cellular perturbations. In this way,
-    we hope to simultaneously decode the *cis* regulatory features responsible for regulating tRNA transcription, and the systems-level consequences of dysregulated tRNA transcription
-    in cells.
-    '
+  We aim to perform high throughput *in vivo* functional screen to examine testicular gene functions at scale. To achieve this, we have developed an *in situ* molecular sequencing platform capable of 
+  reading out the identity of each perturbation in the native tissue context. We are using this platform to investigate the functional impacts of genetic perturbations on spermatogensis at an unprecendented scale.
+  '
