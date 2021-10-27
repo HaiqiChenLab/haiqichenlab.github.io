@@ -812,7 +812,7 @@ td.gutter {
     margin-right: auto;
     margin-left: auto;
     padding-left: 0px; /* 15px */
-    padding-right: 30px; /* 15px */
+    padding-right: 60px; /* 15px */
     max-width: 1230px; }
     /* line 9, /Users/richardbaker/git_repos/shoestring/src/assets/sass/ucsf/components/banner */
     #ucsf-banner-nav .top-header-container ul.menu {
