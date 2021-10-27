@@ -1,10 +1,10 @@
 ---
 layout: gridlay
-title: people
-subtitle: Ramani Lab Members
+title: People
+subtitle: ReGL Members
 ---
 
-# **lab members**
+# **Lab members**
 {% for person in site.data.members %}
 <hr>
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
@@ -34,7 +34,7 @@ subtitle: Ramani Lab Members
 </div>
 {% endfor %}
 <hr>
-<strong>Rotation Students</strong>: <br>
+<!--<strong>Rotation Students</strong>: <br>
 <table class="w3-table">
 <tr>
   <th>Name</th>
