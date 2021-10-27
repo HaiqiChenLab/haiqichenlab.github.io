@@ -811,8 +811,8 @@ td.gutter {
   #ucsf-banner-nav .top-header-container {
     margin-right: auto;
     margin-left: auto;
-    padding-left: 0px; /* 15px */
-    padding-right: 60px; /* 15px */
+    padding-left: 60px; /* 15px */
+    padding-right: 0px; /* 15px */
     max-width: 1230px; }
     /* line 9, /Users/richardbaker/git_repos/shoestring/src/assets/sass/ucsf/components/banner */
     #ucsf-banner-nav .top-header-container ul.menu {
@@ -822,7 +822,7 @@ td.gutter {
       #ucsf-banner-nav .top-header-container ul.menu li.first {
         display: inline-block;
         float: left;
-        padding: 12px 200px 12px 58px; /* 12px 0px 12px 58px top, right, bottom, left*/
+        padding: 12px 300px 12px 58px; /* 12px 0px 12px 58px top, right, bottom, left*/
         background: url("/img/ucsf-logo-banner.png") no-repeat;
         background-position: 0 35%;
         background-position-x: 0;
