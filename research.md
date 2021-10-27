@@ -1,10 +1,10 @@
 ---
 layout: gridlay
 title: research
-subtitle: Ramani Lab Research
+subtitle: RePL Research
 ---
 
-# **research interests**
+# **Research**
 {% for project in site.data.research_aims %}
 <hr>
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
