@@ -797,10 +797,10 @@ td.gutter {
 
 /*extra navbar stuff from UCSF git*/
 #ucsf-banner-nav {
-  height: 45px;
+  height: 40px;
   overflow: hidden;
   font-family: "Helvetica Neue", "arial", sans-serif;
-  background: #CAC5BD; }
+  background: #FFFFFF; }
   #ucsf-banner-nav.no-logo .top-header-container ul.menu li.first {
     background: none;
     text-indent: 0%;
@@ -811,8 +811,8 @@ td.gutter {
   #ucsf-banner-nav .top-header-container {
     margin-right: auto;
     margin-left: auto;
-    padding-left: 30; /* 15px */
-    padding-right: 0; /* 15px */
+    padding-left: 15; /* 15px */
+    padding-right: 15; /* 15px */
     max-width: 1230px; }
     /* line 9, /Users/richardbaker/git_repos/shoestring/src/assets/sass/ucsf/components/banner */
     #ucsf-banner-nav .top-header-container ul.menu {
