@@ -2,7 +2,7 @@
   image: /img/aim1.png
   altimage: /img/aim1.png
   description: 'We harness the DNA editing capabilities of various enzymes to diversify the mammalian genome in a targeted manner with high specificity and efficiency.
-  We have rencetly developed TRACE (T7 polymerase-driven continuous editing), a system which enables continuous, targeted mutagenesis in eukaryotic cells with 
+  We have recently developed [TRACE](https://www.nature.com/articles/s41587-019-0331-8) (T7 polymerase-driven continuous editing), a system which enables continuous, targeted mutagenesis in eukaryotic cells with 
   a wide editing window (at least 2000 bp) and no deletions in nucleotide sequences. TRACE combines the DNA processivity of bacteriophage DNA-dependent T7 RNA polymerases 
   with the somatic hypermutation capability of cytidine deaminases and can thus continuously diversify DNA nucleotides downstream of a T7 promoter.
   
