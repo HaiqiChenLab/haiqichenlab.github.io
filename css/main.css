@@ -822,7 +822,7 @@ td.gutter {
       #ucsf-banner-nav .top-header-container ul.menu li.first {
         display: inline-block;
         float: left;
-        padding: 12px 0px 12px 58px; /* 12px 0px 12px 58px */
+        padding: 50px 0px 12px 58px; /* 12px 0px 12px 58px */
         background: url("/img/ucsf-logo-banner.png") no-repeat;
         background-position: 0 35%;
         background-position-x: 0;
