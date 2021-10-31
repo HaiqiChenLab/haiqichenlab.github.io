@@ -1,7 +1,7 @@
 ---
 layout: gridlay
-title: research
-subtitle: RePL Research
+title: Research
+subtitle: RGL Research Interests
 ---
 
 # **Research**
