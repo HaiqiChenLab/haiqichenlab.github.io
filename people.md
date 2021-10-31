@@ -1,7 +1,7 @@
 ---
 layout: gridlay
 title: People
-subtitle: ReGL Members
+subtitle: RGL Members
 ---
 
 # **Lab members**
