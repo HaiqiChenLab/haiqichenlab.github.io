@@ -16,8 +16,8 @@
   altimage: /img/aim2.png
   description: 'Spermatogenesis - the biological process of sperm production - takes place in the spatially confined environment of seminiferous tubules and is constantly 
   influenced by the somatic cell types in the peritubular and interstitial space. However, there has been a lack of tools to comprehensively profile spermatogenesis within 
-  the native context of seminiferous tubules. Using a high throughput spatial profiling method called [Slide-seq](https://www.science.org/doi/10.1126/science.aaw1219), we have recently generated the first unbiased spatial transcriptome 
-  atlas for the mouse and human spermatogenesis at near single-cell resolution. By applying a custom computational pipeline, we were able to assign information of cell type, 
+  the native context of seminiferous tubules. Using a high throughput spatial profiling method called [Slide-seq](https://www.science.org/doi/10.1126/science.aaw1219), we have recently generated the first unbiased [spatial transcriptome 
+  atlas] (https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01388-7) for the mouse and human spermatogenesis at near single-cell resolution. By applying a custom computational pipeline, we were able to assign information of cell type, 
   seminiferous tubule, and stage to each Slide-seq bead with high accuracy, providing a framework to systematically evaluate the spatial dynamics in gene expressions and in cellular 
   structures both within and surrounding the seminiferous tubules with high resolution. 
 
