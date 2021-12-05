@@ -29,13 +29,14 @@
 
 - name: Anubhav Sinha
   image: /img/Anu.jpeg
-  altimage: image: /img/Anu.jpeg
+  altimage: /img/Anu.jpeg
   position: Lab Consultant
 #  email: nour.abdulhay (at) ucsf.edu
   twitter: "sinhanubbhav"
 #  scholar:
   description: "Anu is a graduate student at MIT. He received his SB in Chemistry and EECS (with a minor in Biology) from MIT and finished his M.Eng in EECS. He then began his PhD in the joint MIT-Harvard HST PhD program in Medical Engineering and Medical Physics. Anu is a co-inventor of the spatial transcriptome profiling technology ExM-seq. 
   He currently advises the lab on in-situ sequencing-related projects.
+  
   
   _Photo by Anonymous Hero_
   "
