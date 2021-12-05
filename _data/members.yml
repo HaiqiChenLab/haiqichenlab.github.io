@@ -13,19 +13,19 @@
   _Photo by Sophia Liu (@soph_liu)_
   '
 
- - name: Jamie Marshall
-   image: /img/Jamie.JPG
-   altimage: /img/Jamie.JPG
-   position: Lab Consultant
+- name: Jamie Marshall
+  image: /img/Jamie.JPG
+  altimage: /img/Jamie.JPG
+  position: Lab Consultant
 #   email: aidan.keith (at) ucsf.edu
-   twitter: "JamieLMars"
+  twitter: "JamieLMars"
 # #  scholar:
-   description: 'Jamie is a Principle Scientist at Solid Sciences. She was previously an Associate Director of the Kidney Disease Initiative at the Broad Institute of MIT and Harvard. 
-   Jamie obtained her PhD from UCLA and received her postdoc training at Boston Children’s Hospital. She currently advises the lab on grantsmanship and provides consultation for lab trainees interested in exploring industry opportunities. 
+  description: 'Jamie is a Principle Scientist at Solid Sciences. She was previously an Associate Director of the Kidney Disease Initiative at the Broad Institute of MIT and Harvard. 
+  Jamie obtained her PhD from UCLA and received her postdoc training at Boston Children’s Hospital. She currently advises the lab on grantsmanship and provides consultation for lab trainees interested in exploring industry opportunities. 
 
 
-   _Photo by Sophia Liu (@soph_liu)_
-   '
+  _Photo by Sophia Liu (@soph_liu)_
+  '
 
 - name: Anubhav Sinha
   image: /img/Anu.jpeg
