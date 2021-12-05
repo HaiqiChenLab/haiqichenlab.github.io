@@ -13,27 +13,32 @@
   _Photo by Sophia Liu (@soph_liu)_
   '
 
-# - name: Aidan Keith, BS
-#   image: /img/aidan.png
-#   altimage: /img/aidan.png
-#   position: Junior Research Specialist
+ - name: Jamie Marshall
+   image: /img/Jamie.JPG
+   altimage: /img/Jamie.JPG
+   position: Lab Consultant
 #   email: aidan.keith (at) ucsf.edu
+   twitter: "JamieLMars"
 # #  scholar:
-#   description: 'I recently finished my B.S. degree in Biology at the University of Washington. While at Princeton, I studied in David Botstein''s [Integrated Science Curriculum](https://lsi.princeton.edu/integratedscience); this course sequence
-#   motivated me to pursue research in quantitative molecular biology.In February 2017 I began working as an undergraduate research assistant in Jay Shendure''s lab in the UW department of Genome Sciences. In Jay''s lab I worked closely with Jason Klein to research regulatory DNA in the context of evolution and disease. To do so, we used “Massively Parallel Reporter Assays” (MPRAs), a variation of traditional reporter assays that can test thousands of sequences for regulatory activity en masse by using Next Generation Sequencing (NGS) as a readout. Notably, we applied MPRAs to study the evolution of enhancers in primates, as well as to functionally characterize and prioritize GWAS SNPs that may be involved in osteoarthritis pathogenesis. Since MPRAs often rely on testing short array-synthesized sequences, I also helped develop a protocol to assemble thousands of array oligos into longer sequences that are closer to the size of most predicted enhancers.
-#
-#
-#   I am very excited to be joining the Ramani lab, where I will get to continue studying gene regulation by implementing and developing new -omics techniques.
-#   '
+   description: 'Jamie is a Principle Scientist at Solid Sciences. She was previously an Associate Director of the Kidney Disease Initiative at the Broad Institute of MIT and Harvard. 
+   Jamie obtained her PhD from UCLA and received her postdoc training at Boston Children’s Hospital. She currently advises the lab on grantsmanship and provides consultation for lab trainees interested in exploring industry opportunities. 
 
-#- name: Nour Abdulhay, BA
-#  image: /img/nabd.png
-#  altimage: /img/nabd.png
-#  position: Graduate Student (BMS)
+
+   _Photo by Sophia Liu (@soph_liu)_
+   '
+
+- name: Anubhav Sinha
+  image: /img/Anu.jpeg
+  altimage: image: /img/Anu.jpeg
+  position: Lab Consultant
 #  email: nour.abdulhay (at) ucsf.edu
-#  twitter: "nourabdulhay"
+  twitter: "sinhanubbhav"
 #  scholar:
-#  description: "I graduated from Wellesley College in 2014 where I studied Biology. Afterwards, I worked for several years in Vijay Sankaran's lab at Boston Children's Hospital / The Broad Institute, which studies hematopoiesis and how genetic variation alters blood cell production. I did research to understand mechanisms that lead to rare blood disorders, specifically using human pluripotent stem cells for disease modeling and investigated aberrant splicing mutations from patients with hematological disorders. In my main project, I explored how noncoding mutations disrupt the spliceosome and may lead to dyserythropoietic anemia. I am currently a 2nd-year PhD graduate student in the Biomedical Sciences program at UCSF. I rotated in the Ramani lab in Spring 2019, where I worked on methods for generating single-molecule and genome-wide maps of epigenetic modification. I look forward to starting my thesis research here, where I will develop high-throughput technologies to investigate how applied metabolic and genetic perturbations affect protein-DNA interactions and overall cellular-state changes."
+  description: "Anu is a graduate student at MIT. He received his SB in Chemistry and EECS (with a minor in Biology) from MIT and finished his M.Eng in EECS. He then began his PhD in the joint MIT-Harvard HST PhD program in Medical Engineering and Medical Physics. Anu is a co-inventor of the spatial transcriptome profiling technology ExM-seq. 
+  He currently advises the lab on in-situ sequencing-related projects.
+  
+  _Photo by Anonymous Hero_
+  "
 
 
 # - name: Dan Xu, BS
