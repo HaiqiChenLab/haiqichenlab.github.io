@@ -16,7 +16,7 @@
 - name: Jamie Marshall (she/her)
   image: /img/Jamie.JPG
   altimage: /img/Jamie.JPG
-  position: Lab Consultant
+  position: Affiliate
 #   email: aidan.keith (at) ucsf.edu
   twitter: "JamieLMars"
 # #  scholar:
@@ -30,7 +30,7 @@
 - name: Anubhav Sinha (he/him)
   image: /img/Anu.jpeg
   altimage: /img/Anu.jpeg
-  position: Lab Consultant
+  position: Affiliate
 #  email: nour.abdulhay (at) ucsf.edu
   twitter: "sinhanubbhav"
 #  scholar:
@@ -42,10 +42,10 @@
   "
 
 
-- name: Dawn Chen
+- name: Dawn Chen (she/her)
   image: /img/Dawn.jpg
   altimage: /img/Dawn.jpg
-  position: Lab Affiliate 
+  position: Affiliate 
 #   email: daniel.xu (at) ucsf.edu
   twitter: "dawnchenx"
 # #  scholar:
