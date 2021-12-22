@@ -66,16 +66,20 @@
   _Photo by Sophia Liu (@soph_liu)_
   "
 
-#- name: Scott Nanda, BA, MSc
-#  image: /img/snan.png
-#  altimage: /img/snan.png
-#  position: Graduate Student joint w/ Goodarzi Lab (BMI)
+- name: Anisha Laumas (she/her)
+  image: /img/Anisha.jpg
+  altimage: /img/Anisha.jpg
+  position: Affiliate
 #  email: scott.nanda (at) ucsf.edu
-#  scholar:
-#  description: "I graduated from Pomona College in 2017, with a B.A in Molecular Biology and a minor in mathematics. As a Beckman Scholar, I worked with Matt Sazinsky on engineering novel proteins capable of hydroxylating straight-chain and cyclic carbon compounds. I spent my junior year as a research associate working in the lab of David Lomas at University College London, which inspired me to pursue graduate study in the UK. I subsequently completed a masters in Computational Biology at the University of Cambridge in 2018, working with Serena Nik-Zainal to study tumorigenesis through the lens of mutational signatures. While there, I helped develop new statistical models for understanding how DNA damage and repair can shape the tumor genome - which led to a strong interest in how cancer evades and co-opts cellular machinery to survive.
+  twitter: "anlau19"
+  description: "Anisha Laumas is an undergraduate majoring in Integrative Biology at Harvard College. In high school, she worked in Prof. Diane Krause’s lab at the Yale School of Medicine studying hematopoietic progenitor cell differentiation. Anisha is interested in using computational tools for genomics as well as applying in situ technologies to various biological contexts.
+  
+  
+  Anisha previously collaborated with the lab on building the spatial transcriptome atlas for mammalian spermatogenesis. She is currently working with the lab to use computational methods to dissect unique features of the transcriptome in germ cells.
 
 
-#  I'm currently a 2nd year student in the Biological and Medical Informatics program, jointly advised between the Ramani Lab and the Goodarzi Lab. As I begin my thesis research, I'm excited to leverage both experimental and computational approaches towards mapping the genomic and epigenomic drivers of cancer metastasis."
+  _Photo by Sophia Liu (@soph_liu)_
+  "
 
 #- name: Mythili Ketavarapu
 #  image: /img/mket.jpg
