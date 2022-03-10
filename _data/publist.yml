@@ -5,12 +5,26 @@
   pmid: 34861215
   pdf: /pubpdfs/AmJ_Pathol.pdf
 
+- authors: "<b>H Chen</b>, Y Jiang, DD Mruk, CY Cheng<sup>#</sup>"
+  title: Spermiation: Insights from Studies on the Adjudin Model
+  journal:  Advances in Experimental Medicine and Biology
+  date: Dec 2021 
+  pmid: 34453740
+  pdf: /pubpdfs/2021_Book.pdf
+
 - authors: "D Cable, E Murray, V Shanmugam, S Zhang, M Diao, <b>H Chen</b>, E Macosko, R Irizarry<sup>#</sup>, F Chen<sup>#</sup>"
   title: Cell type-specific differential expression in spatial transcriptomics
   journal: bioRxiv
   date: Dec 2021 
   pmid: N/A
   pdf: https://www.biorxiv.org/content/10.1101/2021.12.26.474183v2.full
+
+- authors: "<b>H Chen</b>, Y Jiang, DD Mruk, CY Cheng<sup>#</sup>"
+  title: Unraveling the Regulation of Cancer/Testis Antigens in Tumorigenesis Through an Analysis of Normal Germ Cell Development in Rodents
+  journal:  Advances in Experimental Medicine and Biology
+  date: Dec 2021 
+  pmid: 34453740
+  pdf: /pubpdfs/2021_Book.pdf
 
 - authors: "<b>H Chen<sup>#</sup></b>, E Murray, A Laumas, J Li, X Nie, J Hotaling, J Guo, BR Cairns, EZ Macosko, CY Cheng, F Chen<sup>#</sup>"
   title: Dissecting mammalian spermatogenesis using spatial transcriptomics
