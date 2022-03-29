@@ -1,8 +1,16 @@
-- title: "<b>[Dec 20, 2021]</b> The lab officially opens!"
+- title: "[Mar 16, 2022] Our collaborative work on dissecting kidney diseases using spatial transcriptomics is published!"
+  image: /img/kidney.png
+  altimage: /img/kidney.png
+  description: 'Read the article here (https://www.sciencedirect.com/science/article/pii/S2589004222003674)
+  '
+
+- title: "[Dec 20, 2021] The lab officially opens!"
   image: /img/RGL.png
   altimage: /img/RGL.png
   description: 'We are hiring at all levels!
   '
+
+
 
 #- title: "*High-resolution spatial transcriptomics and epigenomics for studying mammalian spermatogenesis*"
 #  image: /img/aim2.png
