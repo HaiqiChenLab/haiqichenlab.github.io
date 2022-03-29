@@ -81,14 +81,20 @@
   _Photo by Sophia Liu (@soph_liu)_
   "
 
-#- name: Mythili Ketavarapu
-#  image: /img/mket.jpg
-#  altimage: /img/mket.jpg
-#  position: Undergraduate Volunteer
+- name: Sophia Liu (she/her)
+  image: /img/SL.png
+  altimage: /img/SL.png
+  position: Affiliate
 #  email: scott.nanda (at) ucsf.edu
-#  scholar:
-#  description: "I recently finished my first year as an undergraduate student at UC Santa Barbara. I am currently pursuing a B.S. in Biochemistry and Molecular Biology with a minor in Statistical Science. In the future, I hope to go to grad school to study Bioinformatics and Computational Biology. I am very excited to be working with the Ramani Lab this summer as an introduction to research in the field of systems biology. In my time at the lab I will be focusing on their research about the regulation of tRNA genes, while gaining an exposure to machine learning and DNA sequencing."
+  twitteer: "soph_liu"
+  description: "Sophia Liu is a graduate student in the Harvard Biophysics PhD program and affiliated with the Medical Engineering and Medical Physics PhD program in the Harvard-MIT Program in Health Sciences and Technology. She graduated from MIT with a B.S. in Chemical-Biological Engineering, where she worked in Robert Langer’s lab on a micro fluidic device for antigen delivery and in Alex Shalek’s lab on single-cell sequencing of neuronal nuclei. 
+  
+  
+  Sophia is collaborating with the lab on creating new ways to measure temporally and spatially dynamic cell interactions, particularly for studying T and B-cell development.
 
+
+  _Photo by Hans Bergal_
+  "
 
  
 - name: We are hiring!
