@@ -1,8 +1,15 @@
+- authors: "RS Molina, G Rix, AA Mengiste, A Beatirz, S Daeje, HE Juan, <b>H Chen</b>, Q Zhang, et al."
+  title: In vivo hypermutation and continuous evolution
+  journal: Nature Reviews Methods Primers
+  date: May 2022 
+  pmid: N/A
+  pdf: /pubpdfs/Primer.pdf
+
 - authors: "JL Marshall*<sup>#</sup>, T Noel*, QS Wang*, <b>H Chen</b>*, E Murray, A Subramanian, KA Vernon, K Liguori, K Keller, RR Stickels, B McBean, RM Heneghan, A Weins, EZ Macosko, F Chen, A Greka<sup>#</sup>"
   title: High Resolution Slide-seqV2 Spatial Transcriptomics Enables Discovery of Disease-Specific Cell Neighborhoods and Pathways
   journal: iScience
   date: Mar 2022 
-  pmid: N/A
+  pmid: 35372810
   pdf: /pubpdfs/kidney.pdf
 
 - authors: "AR Clark, J Marshall, Y Zhou, MS Montesinos, <b>H Chen</b>, L Nguyen, F Chen, A Greka<sup>#</sup>"
