@@ -1,9 +1,7 @@
 - authors: "SM Mangiameli, <b>H Chen</b>, AS Earl, JA Dobkin, D Lesman, JD Bruenrostro<sup>#</sup>, F Chen<sup>#</sup>"
   title: Photoselective sequencing: microscopically guided genomic measurements with subcellular resolution
   journal: Nature Methods
-  date: Apr 2023
-  pmid: N/A
-  pdf: N/A
+  date: Apr 2023 
 
 - authors: "D Cable, E Murray, V Shanmugam, S Zhang, M Diao, <b>H Chen</b>, E Macosko, R Irizarry<sup>#</sup>, F Chen<sup>#</sup>"
   title: Cell type-specific differential expression in spatial transcriptomics
