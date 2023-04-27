@@ -2,6 +2,8 @@
   title: Photoselective sequencing: microscopically guided genomic measurements with subcellular resolution
   journal: Nature Methods
   date: Apr 2023 
+  pmid: N/A
+  pdf: /pubpdfs/C-SIDE.pdf
 
 - authors: "D Cable, E Murray, V Shanmugam, S Zhang, M Diao, <b>H Chen</b>, E Macosko, R Irizarry<sup>#</sup>, F Chen<sup>#</sup>"
   title: Cell type-specific differential expression in spatial transcriptomics
