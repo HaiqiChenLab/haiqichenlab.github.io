@@ -3,6 +3,7 @@
   journal: Nature Methods
   date: Apr 2023 
   pmid: N/A
+  pdf: /pubpdfs/PSS.pdf
 
 - authors: "D Cable, E Murray, V Shanmugam, S Zhang, M Diao, <b>H Chen</b>, E Macosko, R Irizarry<sup>#</sup>, F Chen<sup>#</sup>"
   title: Cell type-specific differential expression in spatial transcriptomics
@@ -15,7 +16,7 @@
   title: In vivo hypermutation and continuous evolution
   journal: Nature Reviews Methods Primers
   date: May 2022 
-  pmid: N/A
+  pmid: 37106232
   pdf: /pubpdfs/Primer.pdf
 
 - authors: "JL Marshall*<sup>#</sup>, T Noel*, QS Wang*, <b>H Chen</b>*, E Murray, A Subramanian, KA Vernon, K Liguori, K Keller, RR Stickels, B McBean, RM Heneghan, A Weins, EZ Macosko, F Chen, A Greka<sup>#</sup>"
