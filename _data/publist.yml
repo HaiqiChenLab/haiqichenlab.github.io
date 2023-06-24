@@ -1,3 +1,10 @@
+- authors: "<b>X Zhang</b>, <b>Q Cao</b>, <b>S Rajachandran</b>, E Grow, <b>M Evans</b>, <b>H Chen</b><sup>#</sup>"
+  title: Dissecting mammalian reproduction with spatial transcriptomics
+  journal:  Human Reproduction Update
+  date: June 2023 
+  pmid: 37353907
+  pdf: /pubpdfs/ST_Review.pdf
+
 - authors: "SM Mangiameli, <b>H Chen</b>, AS Earl, JA Dobkin, D Lesman, JD Bruenrostro<sup>#</sup>, F Chen<sup>#</sup>"
   title: Photoselective sequencing_microscopically guided genomic measurements with subcellular resolution
   journal: Nature Methods
@@ -38,13 +45,6 @@
   journal:  Advances in Experimental Medicine and Biology
   date: Dec 2021 
   pmid: 34453740
-  pdf: /pubpdfs/2021_Book.pdf
-
-- authors: "<b>H Chen</b>, Y Jiang, DD Mruk, CY Cheng<sup>#</sup>"
-  title: Unraveling the Regulation of Cancer Testis Antigens in Tumorigenesis Through an Analysis of Normal Germ Cell Development in Rodents
-  journal:  Advances in Experimental Medicine and Biology
-  date: Dec 2021 
-  pmid: 34453732
   pdf: /pubpdfs/2021_Book.pdf
 
 - authors: "<b>H Chen<sup>#</sup></b>, E Murray, A Laumas, J Li, X Nie, J Hotaling, J Guo, BR Cairns, EZ Macosko, CY Cheng, F Chen<sup>#</sup>"
