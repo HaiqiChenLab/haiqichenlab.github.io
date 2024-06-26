@@ -16,23 +16,6 @@
   _Photo by UTSW Staff Photographer_
   '
 
-- name: Melanie Evans (she/her)
-  image: /img/Melanie.jpeg
-  altimage: /img/Melanie.jpeg
-  position: Fellow Physician
-  email: Melanie.Evans@utsouthwestern.edu
-# scholar: BjwGIbcAAAAJ
- # twitter: "haiqi_chen"
-# orcid: "orcid.org/0000-0003-3345-5960"
-  description: 'Melanie is the first year Fellow Physician in Reproductive Endocrinology and Infertility at UT Southwestern Medical Center. She received a Bachelor’s and Master’s degree in Electrical Engineering with a biomedical focus from Southern Methodist University. She then completed medical school as well as her four years of residency in Obstetrics and Gynecology at UT Southwestern Medical Center. In her final year of residency, she was elected to be Chief Resident where she served as coordinator for all 72 OBGYN residents.  
-  
-  
-  Melanie is currently working with the lab on dissecting the roles of extrachromosomal DNA in human sperm.
-  
-  
-  _Photo by UTSW Staff Photographer_
-  '
-
 - name: Xin Zhang (he/him)
   image: /img/Xin.jpg
   altimage: /img/Xin.jpg
@@ -164,4 +147,20 @@
   
   
   We welcome everyone regardless of age, race, ethnicity, religion, gender identity or expression, sexual orientation, socioeconomic and immigration status. 
+  "
+
+- name: Lab Alumni
+ # image: /img/Join us.jpeg
+ # altimage: /img/Join us.jpeg
+ # position: Research Associate / Graduate Student / Postdoctoral Fellow
+#  email: your.e-mail (at) ucsf.edu
+#  scholar:
+  description: "
+  
+  (1) <b>Melanie Evans<b>, REI Fellow, currently doctor at Dallas Fort Worth Fertility Associates;
+  
+  
+  (2) <b>Shreya Rajachandran<b>, Research Technician, currently medical student at UT Austin Medical School.
+  
+  
   "
