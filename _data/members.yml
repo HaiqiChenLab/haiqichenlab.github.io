@@ -150,8 +150,8 @@
   "
 
 - name: Lab Alumni
- # image: /img/Join us.jpeg
- # altimage: /img/Join us.jpeg
+  image: /img/alumni.png
+  altimage: /img/alumni.png
  # position: Research Associate / Graduate Student / Postdoctoral Fellow
 #  email: your.e-mail (at) ucsf.edu
 #  scholar:
