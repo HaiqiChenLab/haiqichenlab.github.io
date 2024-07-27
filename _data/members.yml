@@ -15,6 +15,20 @@
   
   _Photo by UTSW Staff Photographer_
   '
+  
+- name: Qianlan Xu (she/her)
+  image: /img/Qianlan.jpg
+  altimage: /img/Qianlan.jpg
+  position: Postdoctoral Researcher
+  email: qianlan.xu@utsouthwestern.edu
+# scholar: BjwGIbcAAAAJ
+ # twitter: "haiqi_chen"
+# orcid: "orcid.org/0000-0003-3345-5960"
+  description: 'Qianlan Xu is a postdoctoral researcher in the Chen lab. She earned her Ph.D. from the University of Science and Technology of China, focusing on transcription regulation in protozoan meiosis and genome reorganization during the mammalian cell cycle. She then completed postdoctoral training at UC San Diego and UC Irvine, studying gene regulation in mammalian tissue aging and age-associated diseases. 
+
+  
+  With her background in genomics and epigenetics, Qianlan aims to leverage cutting-edge spatial omics techniques to decode molecular mechanisms of gene regulation in cellular development and human diseases.
+  '
 
 - name: Xin Zhang (he/him)
   image: /img/Xin.jpg
