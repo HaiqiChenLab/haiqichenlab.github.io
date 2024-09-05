@@ -1,4 +1,4 @@
-- name: Haiqi Chen (he/him)
+- name: Haiqi Chen
   image: /img/Haiqi_Chen.jpg
   altimage: /img/Haiqi_Chen.jpg
   position: Principal Investigator
@@ -16,7 +16,7 @@
   _Photo by UTSW Staff Photographer_
   '
   
-- name: Qianlan Xu (she/her)
+- name: Qianlan Xu
   image: /img/Qianlan.jpg
   altimage: /img/Qianlan.jpg
   position: Postdoctoral Researcher
@@ -30,7 +30,20 @@
   With her background in genomics and epigenetics, Qianlan aims to leverage cutting-edge spatial omics techniques to decode molecular mechanisms of gene regulation in cellular development and human diseases.
   '
 
-- name: Xin Zhang (he/him)
+- name: Huong Huynh
+  image: /img/huong.jpg
+  altimage: /img/huong.jpg
+  position: Research Technician
+  email: huong.huynh@utsouthwestern.edu
+# scholar: BjwGIbcAAAAJ
+ # twitter: "haiqi_chen"
+# orcid: "orcid.org/0000-0003-3345-5960"
+  description: 'Huong is a research technician in the Chen lab. She attended Northwestern University from 2020-2024 to obtain her B.S./M.S. in Biomedical Engineering. During that time, she worked in the lab of Prof. John A. Roger to develop a device for simultaneous neuronal imaging and wireless drug delivery.
+
+  Huong is currently working on developing a spatial metabolomics platform.
+  '
+
+- name: Xin Zhang
   image: /img/Xin.jpg
   altimage: /img/Xin.jpg
   position: Postdoctoral Researcher
@@ -43,11 +56,9 @@
   
   Xin is currently interested in dissecting gene functions at scale by combining CRISPR screen with spatial -omics technologies. 
   
-  
-  _Photo by Mingxi Liu_
   '
 
-- name: Qiqi Cao (She/her)
+- name: Qiqi Cao
   image: /img/Qiqi.jpg
   altimage: /img/Qiqi.jpg
   position: Postdoctoral Researcher
@@ -64,7 +75,7 @@
   _Photo by Mingxi Liu_
   '
 
-- name: Jamie Marshall (she/her)
+- name: Jamie Marshall
   image: /img/Jamie.JPG
   altimage: /img/Jamie.JPG
   position: Affiliate
@@ -81,7 +92,7 @@
   _Photo by Sophia Liu (@soph_liu)_
   '
 
-- name: Anubhav Sinha (he/him)
+- name: Anubhav Sinha
   image: /img/Anu.jpeg
   altimage: /img/Anu.jpeg
   position: Affiliate
@@ -98,7 +109,7 @@
   "
 
 
-- name: Dawn Chen (she/her)
+- name: Dawn Chen
   image: /img/Dawn.jpg
   altimage: /img/Dawn.jpg
   position: Affiliate 
@@ -110,11 +121,9 @@
   
   Dawn is collaborating with the lab to develop a novel technology for endogenous gene locus editing.
 
-
-  _Photo by Sophia Liu (@soph_liu)_
   "
 
-- name: Anisha Laumas (she/her)
+- name: Anisha Laumas
   image: /img/Anisha.jpg
   altimage: /img/Anisha.jpg
   position: Affiliate
@@ -126,10 +135,9 @@
   Anisha previously collaborated with the lab on building the spatial transcriptome atlas for mammalian spermatogenesis. She is currently working with the lab to use computational methods to dissect unique features of the transcriptome in germ cells.
 
 
-  _Photo by Sophia Liu (@soph_liu)_
   "
 
-- name: Sophia Liu (she/her)
+- name: Sophia Liu
   image: /img/SL.png
   altimage: /img/SL.png
   position: Affiliate
@@ -140,8 +148,6 @@
   
   Sophia is collaborating with the lab on creating new ways to measure temporally and spatially dynamic cell interactions, particularly for studying T and B-cell development.
 
-
-  _Photo by Hans Bergal_
   "
 
  
