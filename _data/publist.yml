@@ -1,3 +1,10 @@
+- authors: "<b>S Rajachandran</b>*, <b>Q Xu</b>*, Q Cao, X Zhang, F Chen, SM Mangiameli, <b>H Chen</b><sup>#</sup>"
+  title: Subcellular Level Spatial Transcriptomics with PHOTON
+  journal:  bioRxiv
+  date: September 2024
+  pmid: NA
+  pdf: /pubpdfs/eccDNA.pdf
+
 - authors: "<b>M Evans</b>*, <b>S Rajachandran</b>*, <b>X Zhang</b>*,  Y Zhang, K Saner, L Xu, KE Orwig, O Bukulmez, <b>H Chen</b><sup>#</sup>"
   title: Functional and Clinical Implications of Extrachromosomal Circular DNA in the Human Germline
   journal:  bioRxiv
@@ -69,12 +76,6 @@
   pmid: 31844291
   pdf: /pubpdfs/TRACE.pdf
 
-- authors: "<b>H Chen</b>, D Mruk, CKC Wong, B Silvestrini, CY Cheng<sup>#</sup>"
-  title: F5-peptide enhances the efficacy of the non-hormonal male contraceptive adjudin
-  journal: Contraception
-  date: June 2019
-  pmid: 30763581
-  pdf: /pubpdfs/Contraception.pdf
 
 - authors: " <b>H Chen</b>, DD Mruk, W Lui, CKC Wong, WM Lee, CY Cheng<sup>#</sup>"
   title: Cell polarity and planar cell polarity (PCP) in spermatogenesis
