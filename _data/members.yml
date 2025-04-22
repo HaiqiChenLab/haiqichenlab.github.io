@@ -11,9 +11,22 @@
   
   
   In his free time, Haiqi enjoys Sci-Fi novels and soccer.
-  
   '
   
+- name: Rahil Alhumaidi
+  image: /img/Rahil.jpg
+  altimage: /img/Rahil.jpg
+  position: Research Technician
+  email: rahil.alhumaidi@utsouthwestern.edu
+# scholar: BjwGIbcAAAAJ
+ # twitter: "haiqi_chen"
+# orcid: "orcid.org/0000-0003-3345-5960"
+  description: 'Rahil is a Research Technician in the Chen Lab. She earned her master’s degree in Biology from the University of North Texas in 2023. Her research interests lie in understanding how dynamic cell–cell interactions shape tissue development and immune regulation in reproductive biology. 
+  
+  
+  Rahil is currently working on understanding cell–cell interactions within reproductive tissues using genetic models and genomics approaches. 
+  '
+
 - name: Qianlan Xu
   image: /img/Qianlan.jpg
   altimage: /img/Qianlan.jpg
