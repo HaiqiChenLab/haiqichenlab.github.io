@@ -1,40 +1,34 @@
-- title: "*Novel gene editing tools for directed evolution of endogenous gene loci and for temporal recording*"
-  image: /img/aim1.png
-  altimage: /img/aim1.png
-  description: 'We harness the DNA editing capabilities of various enzymes to diversify the mammalian genome in a targeted manner with high specificity and efficiency.
-  We have recently developed [TRACE](https://www.nature.com/articles/s41587-019-0331-8) (T7 polymerase-driven continuous editing), a system which enables continuous, targeted mutagenesis in eukaryotic cells with 
-  a wide editing window (at least 2000 bp) and no deletions in nucleotide sequences. TRACE combines the DNA processivity of bacteriophage DNA-dependent T7 RNA polymerases 
-  with the somatic hypermutation capability of cytidine deaminases and can thus continuously diversify DNA nucleotides downstream of a T7 promoter.
+- title: "*Developing high resolution spatial omics technologies to examine the cellular functions of biomedical condensates*"
+  image: /img/PHOTON Schematic.png
+  altimage: /img/PHOTON Schematic.png
+  description: 'Biomolecular condensates are diverse and abundant membrane-less organelles that partition the intracellular environment into functionally distinct compartments containing specific sets of molecules and reactions. Biomolecular condensates participate in 
+  various essential housekeeping, stress-response, or cell type-specific processes. Furthermore, an increasing number of studies have linked the physiological state of a cell or the spatial locations of condensates in a cell with the composition of the condensates. 
+  Thus, to understand the functions of biomolecular condensates, it is important to know how the molecular content in the condensates change in health vs. disease or in different spatial locations. 
   
-  
-  We are now employing TRACE to 1) diversify endogenous gene loci in a high-throughput fashion; and 2) record temporal information such as cell lineage information *in vivo*. 
-  We are also interested in combining temporal information with other cellular modalities.
+  To this end, we have been working to develop novel spatial omics technologies that enables multi-modal molecular characterization of biomolecular condensates at the sub-micron scale. These technologies combine high resolution imaging with high throughput sequencing to achieve spatial
+  transcriptome, epigenome, and genome profiling at subcellular resolution. 
+
   '
 
-- title: "*High-resolution spatial genomics for studying mammalian spermatogenesis*"
+- title: "*Studying mammalian reproduction through a genomics lens*"
   image: /img/aim2.png
   altimage: /img/aim2.png
-  description: 'Spermatogenesis - the biological process of sperm production - takes place in the spatially confined environment of seminiferous tubules and is constantly 
-  influenced by the somatic cell types in the peritubular and interstitial space. However, there has been a lack of tools to comprehensively profile spermatogenesis within 
-  the native context of seminiferous tubules. Using a high throughput spatial profiling method called [Slide-seq](https://www.science.org/doi/10.1126/science.aaw1219), we have recently generated the first unbiased [spatial transcriptome 
-  atlas](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01388-7) for the mouse and human spermatogenesis at near single-cell resolution. By applying a custom computational pipeline, we were able to assign information of cell type, 
-  seminiferous tubule, and stage to each Slide-seq bead with high accuracy, providing a framework to systematically evaluate the spatial dynamics in gene expressions and in cellular 
-  structures both within and surrounding the seminiferous tubules with high resolution. 
+  description: 'We are interested in solving the biggest mysteries in mammalian reproduction by leveraging cutting-edge genomics technologies. Some of the curiosity-driven research projects include:
 
+  1) How can we achieve a complete human in vitro spermatogenesis?
 
-  We are now pushing the limit of the current Slide-seq technology to build the next-generation spatial transcriptomics atlas for mammalian spermatogenesis. We will then use this atlas
-  to solve some of the biggest misteries in male reproductive biology. In addtion, we are also interested in developing technologies which capture the epigenome (e.g., chromatin accessibility and histone modifications) in a
-  spatially-resolved manner. 
+  2) What is the molecular mechanism of the immune tolerance of sperm within the female reproductive tract?
+
+  3) What are the functions of extrachromosomal circular DNA in the germline?
+
+  4) Why and how can some sperm outcompete other sperm in the same ejaculate for fertilization?
+
+  5) Why does the testis express the largest number of genes in the body?
   '
 
 - title: "*Spatially-resolved functional genomics to study gene functions in the native tissue context*"
   image: /img/aim3.png
   altimage: /img/aim3.png
-  description: 'The mammalian testis expresses the largest number of genes in the body. Many of these genes are expressed in the germ cells. However, the biological functions of the majority of these genes remain largely unknown.
-  A lack of *in vitro* culture system that faithfully recapitulates spermatogenesis renders it impossible to perform large scale *in vitro* functional screens to dissect testicular gene functions. Therefore, *in vivo* genetic 
-  models remain one of the few feasible approaches. 
-
-
-  To overcome this challenge, we aim to perform high throughput *in vivo* perturbation screens to examine testicular gene functions at scale. To achieve this, we are developing an *in situ* molecular sequencing platform capable of 
+  description: 'We hare developing a high throughput *in vivo* perturbation screen approach to examine gene functions at scale. To achieve this, we are developing an *in situ* molecular sequencing platform capable of 
   reading out the identity of each perturbation in the native tissue context. We are using this platform to investigate the functional impacts of genetic perturbations on spermatogensis at an unprecendented scale.
   '
