@@ -16,14 +16,19 @@
   image: /img/aim2.png
   altimage: /img/aim2.png
   description: 'We are interested in solving the biggest mysteries in mammalian reproduction by leveraging cutting-edge genomics technologies. Some of the curiosity-driven research projects include:
+  
 
   1) How can we achieve a complete human in vitro spermatogenesis?
+  
 
-  2) What is the molecular mechanism of the immune tolerance of sperm within the female reproductive tract?
+  2) What is the molecular mechanism of immune tolerance of sperm within the female reproductive tract?
+  
 
   3) What are the functions of extrachromosomal circular DNA in the germline?
+  
 
-  4) Why and how can some sperm outcompete other sperm in the same ejaculate for fertilization?
+  4) Why and how can some sperm outcompete other sperm within the same ejaculate for fertilization?
+  
 
   5) Why does the testis express the largest number of genes in the body?
   '
@@ -31,6 +36,6 @@
 - title: "*Spatially-resolved functional genomics to study gene functions in the native tissue context*"
   image: /img/aim3.png
   altimage: /img/aim3.png
-  description: 'We hare developing a high throughput *in vivo* perturbation screen approach to examine gene functions at scale. To achieve this, we are developing an *in situ* molecular sequencing platform capable of 
+  description: 'We are developing a high throughput *in vivo* perturbation screen approach to examine gene functions at scale. To achieve this, we are developing an *in situ* molecular sequencing platform capable of 
   reading out the identity of each perturbation in the native tissue context. We are using this platform to investigate the functional impacts of genetic perturbations on spermatogensis at an unprecendented scale.
   '
