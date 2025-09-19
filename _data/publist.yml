@@ -1,3 +1,10 @@
+- authors: "<b>H Huynh</b>, <b>H Chen</b><sup>#</sup>"
+  title: More comprehensive cell profiling to understand normal and disease states
+  journal:  Science Advances
+  date: Aug 2025
+  pmid: 40768610
+  pdf: /pubpdfs/focus.pdf
+
 - authors: "<b>S Rajachandran</b>*, <b>Q Xu</b>*,  <b>Q Cao</b>, <b>X Zhang</b>, F Chen, SM Magiameli, <b>H Chen</b><sup>#</sup>"
   title: Subcellular Level Spatial Transcriptomics with PHOTON
   journal:  Nature Communications
