@@ -4,7 +4,7 @@ title: People
 subtitle: RGL Members
 ---
 
-# **Lab members**
+# Lab Members
 {% for person in site.data.members %}
 <hr>
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
