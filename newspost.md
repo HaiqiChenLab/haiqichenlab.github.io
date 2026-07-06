@@ -4,7 +4,7 @@ title: News
 subtitle: Lab News
 ---
 
-# **Lab news**
+# Lab News
 {% for project in site.data.news %}
 <hr>
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
