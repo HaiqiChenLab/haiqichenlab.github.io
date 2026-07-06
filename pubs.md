@@ -15,7 +15,7 @@ Here is a list of some representative publications. The full list can be found o
       <ol>
         {% for publication in site.data.publist %}
           <li>
-            {{publication.authors}}. "{{publication.title}}." <i>{{publication.journal}}</i>; {{publication.date}}; PMID: {{publication.pmid}}; <a href="{{publication.pdf}}">[pdf]</a>
+            {{publication.authors}}. "{{publication.title}}." <i>{{publication.journal}}</i>; {{publication.date}}; PMID: {{publication.pmid}}
           </li>
           <br>
         {% endfor %}
