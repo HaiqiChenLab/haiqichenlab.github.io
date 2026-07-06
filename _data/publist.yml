@@ -3,105 +3,105 @@
   journal:  bioRxiv
   date: Mar 2026
   pmid: 41929221
-  pdf: /pubpdfs/ECHOS.pdf
+  link to paper: /pubpdfs/ECHOS.pdf
 
 - authors: "<b>H Huynh</b>, <b>H Chen</b><sup>#</sup>"
   title: More comprehensive cell profiling to understand normal and disease states
   journal:  Science Advances
   date: Aug 2025
   pmid: 40768610
-  pdf: /pubpdfs/focus.pdf
+  link to paper: /pubpdfs/focus.pdf
 
 - authors: "<b>S Rajachandran</b>*, <b>Q Xu</b>*,  <b>Q Cao</b>, <b>X Zhang</b>, F Chen, SM Magiameli, <b>H Chen</b><sup>#</sup>"
   title: Subcellular Level Spatial Transcriptomics with PHOTON
   journal:  Nature Communications
   date: May 2025
   pmid: 39314454
-  pdf: /pubpdfs/PHOTON.pdf
+  link to paper: /pubpdfs/PHOTON.pdf
 
 - authors: "<b>D Bossa</b>, <b>M Evans</b>, <b>S Rajachandran</b>, <b>X Zhang</b>, <b>Q Cao</b>, <b>H Chen</b><sup>#</sup>"
   title: Computational Approaches in Spatial Transcriptomics for the Study of Mammalian Spermatogenesis
   journal:  Molecular Male Reproductive Medicine 
   date: April 2025
   pmid: 40301257
-  pdf: /pubpdfs/Computational_book_chapter.pdf
+  link to paper: /pubpdfs/Computational_book_chapter.pdf
 
 - authors: "<b>Q Xu</b>, <b>H Chen</b><sup>#</sup>"
   title: Applications of spatial transcriptomics in studying spermatogenesis
   journal:  Andrology
   date: April 2025
   pmid: 40202007
-  pdf: /pubpdfs/Andrology.pdf
+  link to paper: /pubpdfs/Andrology.pdf
 
 - authors: "XD Chen*, Z Chen*, G Wythes, Y Zhang, BC Orr, G Sun, Y Chao, AN Torres, K Thao, M Vallurupalli, J Sun, M Borji, E Tkacik, <b>H Chen</b>, BE Berstein<sup>#</sup>, F Chen<sup>#</sup>"
   title: Helicase-assisted continuous editing for programmable mutagenesis of endogenous genomes
   journal:  Science
   date: October 2024
   pmid: 39388570
-  pdf: /pubpdfs/HACE.pdf
+  link to paper: /pubpdfs/HACE.pdf
 
 - authors: "<b>M Evans</b>*, <b>S Rajachandran</b>*, <b>X Zhang</b>*,  Y Zhang, K Saner, L Xu, KE Orwig, O Bukulmez, <b>H Chen</b><sup>#</sup>"
   title: Functional and Clinical Implications of Extrachromosomal Circular DNA in the Human Germline
   journal:  bioRxiv
   date: June 2024
   pmid: NA
-  pdf: /pubpdfs/eccDNA.pdf
+  link to paper: /pubpdfs/eccDNA.pdf
 
 - authors: "<b>S Rajachandran</b>*, <b>X Zhang</b>*, <b>Q Cao</b>*, AL Caldeira-Brant, X Zhang, Y Song, <b>M Evans</b>, O Bukulmez, EJ Grow, M Nagano, KE Orwig, <b>H Chen</b><sup>#</sup>"
   title: Dissecting the Spermatogonial Stem Cell Niche Using Spatial Transcriptomics
   journal:  Cell Reports
   date: July 2023 
   pmid: 37393620
-  pdf: /pubpdfs/Niche_ST.pdf
+  link to paper: /pubpdfs/Niche_ST.pdf
   
 - authors: "<b>X Zhang</b>*, <b>Q Cao</b>*, <b>S Rajachandran</b>, E Grow, <b>M Evans</b>, <b>H Chen</b><sup>#</sup>"
   title: Dissecting mammalian reproduction with spatial transcriptomics
   journal:  Human Reproduction Update
   date: June 2023 
   pmid: 37353907
-  pdf: /pubpdfs/ST_Review.pdf
+  link to paper: /pubpdfs/ST_Review.pdf
 
 - authors: "SM Mangiameli, <b>H Chen</b>, AS Earl, JA Dobkin, D Lesman, JD Bruenrostro<sup>#</sup>, F Chen<sup>#</sup>"
   title: Photoselective sequencing_microscopically guided genomic measurements with subcellular resolution
   journal: Nature Methods
   date: Apr 2023 
   pmid: 37106232
-  pdf: /pubpdfs/PSS.pdf
+  link to paper: /pubpdfs/PSS.pdf
 
 - authors: "D Cable, E Murray, V Shanmugam, S Zhang, M Diao, <b>H Chen</b>, E Macosko, R Irizarry<sup>#</sup>, F Chen<sup>#</sup>"
   title: Cell type-specific differential expression in spatial transcriptomics
   journal: Nature Methods
   date: Sep 2022 
   pmid: 36050488
-  pdf: /pubpdfs/C-SIDE.pdf
+  link to paper: /pubpdfs/C-SIDE.pdf
 
 - authors: "RS Molina, G Rix, AA Mengiste, A Beatirz, S Daeje, HE Juan, <b>H Chen</b>, et al."
   title: In vivo hypermutation and continuous evolution
   journal: Nature Reviews Methods Primers
   date: May 2022 
   pmid: 37106232
-  pdf: /pubpdfs/Primer.pdf
+  link to paper: /pubpdfs/Primer.pdf
 
 - authors: "JL Marshall*<sup>#</sup>, T Noel*, QS Wang*, <b>H Chen</b>*, E Murray, A Subramanian, KA Vernon, K Liguori, K Keller, RR Stickels, B McBean, RM Heneghan, A Weins, EZ Macosko, F Chen, A Greka<sup>#</sup>"
   title: High Resolution Slide-seqV2 Spatial Transcriptomics Enables Discovery of Disease-Specific Cell Neighborhoods and Pathways
   journal: iScience
   date: Mar 2022 
   pmid: 35372810
-  pdf: /pubpdfs/kidney.pdf
+  link to paper: /pubpdfs/kidney.pdf
 
 - authors: "AR Clark, J Marshall, Y Zhou, MS Montesinos, <b>H Chen</b>, L Nguyen, F Chen, A Greka<sup>#</sup>"
   title: Single cell transcriptomics reveal disrupted kidney filter cell-cell interactions after early and selective podocyte injury
   journal: The American Journal of Pathology
   date: Feb 2022 
   pmid: 34861215
-  pdf: /pubpdfs/AmJ_Pathol.pdf
+  link to paper: /pubpdfs/AmJ_Pathol.pdf
 
 - authors: "<b>H Chen<sup>#</sup></b>, E Murray, A Sinha, A Laumas, J Li, X Nie, J Hotaling, J Guo, BR Cairns, EZ Macosko, CY Cheng, F Chen<sup>#</sup>"
   title: Dissecting mammalian spermatogenesis using spatial transcriptomics
   journal: Cell Reports
   date: Nov 2021 
   pmid: 34731600
-  pdf: /pubpdfs/Testis_Slideseq.pdf
+  link to paper: /pubpdfs/Testis_Slideseq.pdf
 
 
 - authors: "<b>H Chen</b>, S Liu, S Padula, D Lesman, K Griswold, A Lin, T Zhao, JL Marshall, F Chen<sup>#</sup>"
@@ -109,7 +109,7 @@
   journal: Nature Biotechnology
   date: Feb 2020
   pmid: 31844291
-  pdf: /pubpdfs/TRACE.pdf
+  link to paper: /pubpdfs/TRACE.pdf
 
 
 - authors: "<b>H Chen</b>, DD Mruk, W Lui, CKC Wong, WM Lee, CY Cheng<sup>#</sup>"
@@ -117,32 +117,32 @@
   journal: Seminars in Cell & Developmental Biology
   date: Sep 2018
   pmid: 28923514
-  pdf: /pubpdfs/Seminars.pdf
+  link to paper: /pubpdfs/Seminars.pdf
 
 - authors: "CL Robinson, ACN Chong, AW Ashbrook, G Jeng, J Jin, <b>H Chen</b>, et al"
   title: Male germ cells support long-term propagation of Zika virus
   journal: Nature Communications
   date: May 2018
   pmid: 29844387
-  pdf: /pubpdfs/Zika.pdf
+  link to paper: /pubpdfs/Zika.pdf
 
 - authors: "<b>H Chen</b>, X Xiao, W Lui, WM Lee, CY Cheng<sup>#</sup>"
   title: Vangl2 regulates spermatid planar cell polarity through microtubule (MT)-based cytoskeleton in the rat testis
   journal: Cell Death & Disease
   date: Mar 2018
   pmid: 29497043
-  pdf: /pubpdfs/Cell_Death.pdf
+  link to paper: /pubpdfs/Cell_Death.pdf
 
 - authors: "<b>H Chen</b>, DD Mruk, WM Lee, Y Cheng<sup>#</sup>"
   title: Regulation of spermatogenesis by a local functional axis in the testis - role of the basement membrane–derived noncollagenous 1 domain peptide
   journal: The FASEB Journal
   date: Aug 2017
   pmid: 28487282
-  pdf: /pubpdfs/FESEB.pdf
+  link to paper: /pubpdfs/FESEB.pdf
 
 - authors: "<b>H Chen</b>, DD Mruk, WM Lee, CY Cheng<sup>#</sup>"
   title: Planar cell polarity (PCP) protein Vangl2 regulates ectoplasmic specialization dynamics via its effects on actin microfilaments in the testes of male rats
   journal: Endocrinology
   date: May 2016
   pmid: 26990065
-  pdf: /pubpdfs/Endo.pdf
+  link to paper: /pubpdfs/Endo.pdf
