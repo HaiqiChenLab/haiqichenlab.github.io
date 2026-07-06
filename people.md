@@ -13,7 +13,7 @@ subtitle: RGL Members
         <img class="img-responsive" src="{{person.image}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.image}}';" {% endif %} alt="{{person.name}}"><br>
         <strong>{{person.name}}</strong> <br>
         {{person.position}} <br>
-        <em>{{person.email}}</em> <br>
+        <a href="mailto:{{person.email}}">{{person.email}}</a> <br>
         {% if person.website %}
           <a href= "{{person.website}}">{{person.website}}</a> <br>
         {% endif %}
