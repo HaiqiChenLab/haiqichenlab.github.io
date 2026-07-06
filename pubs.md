@@ -5,9 +5,13 @@ excerpt: "RGL -- Publications."
 ---
 
 
-# **Publications**
-<hr>
-Here is a list of some representative publications. The full list can be found on [Google Scholar](https://scholar.google.com/citations?user=HoeBWvQAAAAJ&hl=en). #: corresponding author; \*: equal contribution. Lab members are highlighted in <b>bold</b>.
+# Publications
+
+---
+
+Here is a list of some representative publications. The full list can be found on [Google Scholar](https://scholar.google.com/citations?user=HoeBWvQAAAAJ&hl=en).
+
+\#: corresponding author; \*: equal contribution. Lab members are highlighted in **bold**.
 
 <div class="wrapper row3">
   <div id="container">
@@ -15,7 +19,7 @@ Here is a list of some representative publications. The full list can be found o
       <ol>
         {% for publication in site.data.publist %}
           <li>
-            {{publication.authors}}. "{{publication.title}}." <i>{{publication.journal}}</i>; {{publication.date}}; PMID: {{publication.pmid}}
+            {{ publication.authors }}. "{{ publication.title }}." <i>{{ publication.journal }}</i>; {{ publication.date }}; PMID: {{ publication.pmid }}
           </li>
         {% endfor %}
       </ol>
