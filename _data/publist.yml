@@ -4,11 +4,13 @@
   date: Mar 2026
   pmid: 41929221
 
+
 - authors: "<b>H Huynh</b>, <b>H Chen</b><sup>#</sup>"
   title: More comprehensive cell profiling to understand normal and disease states
   journal:  Science Advances
   date: Aug 2025
   pmid: 40768610
+
 
 - authors: "<b>S Rajachandran</b>*, <b>Q Xu</b>*,  <b>Q Cao</b>, <b>X Zhang</b>, F Chen, SM Magiameli, <b>H Chen</b><sup>#</sup>"
   title: Subcellular Level Spatial Transcriptomics with PHOTON
@@ -16,11 +18,13 @@
   date: May 2025
   pmid: 39314454
 
+
 - authors: "<b>D Bossa</b>, <b>M Evans</b>, <b>S Rajachandran</b>, <b>X Zhang</b>, <b>Q Cao</b>, <b>H Chen</b><sup>#</sup>"
   title: Computational Approaches in Spatial Transcriptomics for the Study of Mammalian Spermatogenesis
   journal:  Molecular Male Reproductive Medicine 
   date: April 2025
   pmid: 40301257
+
 
 - authors: "<b>Q Xu</b>, <b>H Chen</b><sup>#</sup>"
   title: Applications of spatial transcriptomics in studying spermatogenesis
@@ -28,11 +32,13 @@
   date: April 2025
   pmid: 40202007
 
+
 - authors: "XD Chen*, Z Chen*, G Wythes, Y Zhang, BC Orr, G Sun, Y Chao, AN Torres, K Thao, M Vallurupalli, J Sun, M Borji, E Tkacik, <b>H Chen</b>, BE Berstein<sup>#</sup>, F Chen<sup>#</sup>"
   title: Helicase-assisted continuous editing for programmable mutagenesis of endogenous genomes
   journal:  Science
   date: October 2024
   pmid: 39388570
+
 
 - authors: "<b>M Evans</b>*, <b>S Rajachandran</b>*, <b>X Zhang</b>*,  Y Zhang, K Saner, L Xu, KE Orwig, O Bukulmez, <b>H Chen</b><sup>#</sup>"
   title: Functional and Clinical Implications of Extrachromosomal Circular DNA in the Human Germline
@@ -40,11 +46,13 @@
   date: June 2024
   pmid: NA
 
+
 - authors: "<b>S Rajachandran</b>*, <b>X Zhang</b>*, <b>Q Cao</b>*, AL Caldeira-Brant, X Zhang, Y Song, <b>M Evans</b>, O Bukulmez, EJ Grow, M Nagano, KE Orwig, <b>H Chen</b><sup>#</sup>"
   title: Dissecting the Spermatogonial Stem Cell Niche Using Spatial Transcriptomics
   journal:  Cell Reports
   date: July 2023 
   pmid: 37393620
+
   
 - authors: "<b>X Zhang</b>*, <b>Q Cao</b>*, <b>S Rajachandran</b>, E Grow, <b>M Evans</b>, <b>H Chen</b><sup>#</sup>"
   title: Dissecting mammalian reproduction with spatial transcriptomics
@@ -52,11 +60,13 @@
   date: June 2023 
   pmid: 37353907
 
+
 - authors: "SM Mangiameli, <b>H Chen</b>, AS Earl, JA Dobkin, D Lesman, JD Bruenrostro<sup>#</sup>, F Chen<sup>#</sup>"
   title: Photoselective sequencing_microscopically guided genomic measurements with subcellular resolution
   journal: Nature Methods
   date: Apr 2023 
   pmid: 37106232
+
 
 - authors: "D Cable, E Murray, V Shanmugam, S Zhang, M Diao, <b>H Chen</b>, E Macosko, R Irizarry<sup>#</sup>, F Chen<sup>#</sup>"
   title: Cell type-specific differential expression in spatial transcriptomics
@@ -64,11 +74,13 @@
   date: Sep 2022 
   pmid: 36050488
 
+
 - authors: "RS Molina, G Rix, AA Mengiste, A Beatirz, S Daeje, HE Juan, <b>H Chen</b>, et al."
   title: In vivo hypermutation and continuous evolution
   journal: Nature Reviews Methods Primers
   date: May 2022 
   pmid: 37106232
+
 
 - authors: "JL Marshall*<sup>#</sup>, T Noel*, QS Wang*, <b>H Chen</b>*, E Murray, A Subramanian, KA Vernon, K Liguori, K Keller, RR Stickels, B McBean, RM Heneghan, A Weins, EZ Macosko, F Chen, A Greka<sup>#</sup>"
   title: High Resolution Slide-seqV2 Spatial Transcriptomics Enables Discovery of Disease-Specific Cell Neighborhoods and Pathways
@@ -82,11 +94,13 @@
   date: Feb 2022 
   pmid: 34861215
 
+
 - authors: "<b>H Chen<sup>#</sup></b>, E Murray, A Sinha, A Laumas, J Li, X Nie, J Hotaling, J Guo, BR Cairns, EZ Macosko, CY Cheng, F Chen<sup>#</sup>"
   title: Dissecting mammalian spermatogenesis using spatial transcriptomics
   journal: Cell Reports
   date: Nov 2021 
   pmid: 34731600
+
 
 - authors: "<b>H Chen</b>, S Liu, S Padula, D Lesman, K Griswold, A Lin, T Zhao, JL Marshall, F Chen<sup>#</sup>"
   title: Efficient, continuous mutagenesis in human cells using a pseudo-random DNA editor
@@ -94,11 +108,13 @@
   date: Feb 2020
   pmid: 31844291
 
+
 - authors: "<b>H Chen</b>, DD Mruk, W Lui, CKC Wong, WM Lee, CY Cheng<sup>#</sup>"
   title: Cell polarity and planar cell polarity (PCP) in spermatogenesis
   journal: Seminars in Cell & Developmental Biology
   date: Sep 2018
   pmid: 28923514
+
 
 - authors: "CL Robinson, ACN Chong, AW Ashbrook, G Jeng, J Jin, <b>H Chen</b>, et al"
   title: Male germ cells support long-term propagation of Zika virus
@@ -106,17 +122,20 @@
   date: May 2018
   pmid: 29844387
 
+
 - authors: "<b>H Chen</b>, X Xiao, W Lui, WM Lee, CY Cheng<sup>#</sup>"
   title: Vangl2 regulates spermatid planar cell polarity through microtubule (MT)-based cytoskeleton in the rat testis
   journal: Cell Death & Disease
   date: Mar 2018
   pmid: 29497043
 
+
 - authors: "<b>H Chen</b>, DD Mruk, WM Lee, Y Cheng<sup>#</sup>"
   title: Regulation of spermatogenesis by a local functional axis in the testis - role of the basement membrane–derived noncollagenous 1 domain peptide
   journal: The FASEB Journal
   date: Aug 2017
   pmid: 28487282
+
 
 - authors: "<b>H Chen</b>, DD Mruk, WM Lee, CY Cheng<sup>#</sup>"
   title: Planar cell polarity (PCP) protein Vangl2 regulates ectoplasmic specialization dynamics via its effects on actin microfilaments in the testes of male rats
